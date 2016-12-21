@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="1" assertions="2" failures="0" errors="0" time="0.169886">
+    <testsuite name="ExampleTest" file="/Users/paradon/Projects/jenkins_test/tests/ExampleTest.php" tests="1" assertions="2" failures="0" errors="0" time="0.169886">
+      <testcase name="testBasicExample" class="ExampleTest" file="/Users/paradon/Projects/jenkins_test/tests/ExampleTest.php" line="14" assertions="2" time="0.169886"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
